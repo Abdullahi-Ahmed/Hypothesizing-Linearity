@@ -84,6 +84,7 @@ here We only explitly the the p-value cutoffs i.e <0.05
 
 I promised myself i won't be technically but oops!.  
 
-check on this amazing blog by Cassie Kozyrkov, Head of Decision Intelligence, Google
+check on this amazing blog by Cassie Kozyrkov, Head of Decision Intelligence, Google  
+
 https://towardsdatascience.com/what-is-p-value-short-for-no-seriously-c548200660a  
 https://www.youtube.com/watch?v=9jW9G8MO4PQ
