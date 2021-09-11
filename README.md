@@ -45,7 +45,7 @@ Mathematically we express this as
   
   versus 
   
-  Ha : β1 $\neq$0,  
+  Ha : β1 != 0,  
   
   if β1 = 0 then the equation will reduce to  
        
@@ -84,7 +84,7 @@ understand hypothesizing linearity with few python lines
   
   We calculate the t-test on 2 related samples of scores, weekly sales values from the dataset and Unemployment value. the scipy have an in-built function "stats" to calculate the t-stats.   
   
-here We only explitly the the p-value cutoffs i.e <0.05  
+here We only explitly put the p-value cutoffs i.e <0.05  
 
 
 I promised myself i won't be technically but oops!.  
