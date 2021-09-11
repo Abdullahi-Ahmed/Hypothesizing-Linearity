@@ -27,10 +27,13 @@ Mathematically we express this as
     Weekly Sales = β0 + β1 x Unemployment
   
   
-β0 is the slope of the straight line while  β1 is the y intercept when x is zreo they are called coefficients or paramteres. In practice the coefficients are unknown. so before we make the decision we must have to estimate or solve of the coefficients. Lucky us we can use this formula given the values of x & y (Weekly Sales & Unemployment)
+β0 is the slope of the straight line while  β1 is the y intercept when x is zreo they are called coefficients or paramteres. In practice the coefficients are unknown. so before we make the decision we must have to estimate or solve of the coefficients. Lucky us we can use this formula given the values of x & y (Weekly Sales & Unemployment)  
+
 **β0 =**   
 
 ![linear-regression-formula](https://user-images.githubusercontent.com/85021780/132938787-dfbe16fe-61a9-4ff1-99d6-124b9a026636.png)
+
+ 
 **β1 =**  
 
 ![linear-regression-formula2](https://user-images.githubusercontent.com/85021780/132938862-37addc7d-a086-48f4-8e81-8473ea250ae7.png)
@@ -42,7 +45,7 @@ Mathematically we express this as
   
   versus 
   
-  Ha : β1 $\neq$  0,  
+  Ha : β1 $\neq$0,  
   
   if β1 = 0 then the equation will reduce to  
        
